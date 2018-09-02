@@ -45,19 +45,19 @@ a:hover{
 .novo{
 	padding: 10px 60px;
 	background-color: #70A3F1;
-	border-radius: 5px;
+	border-radius: 6px;
 }
 
 .altera{
 	padding: 10px 40px;
 	background-color: #70A3F1;
-	border-radius: 5px;
+	border-radius: 6px;
 }
 
 .delete{
 	padding: 10px 40px;
 	background-color: red;
-	border-radius: 5px;
+	border-radius: 6px;
 }
 
 
